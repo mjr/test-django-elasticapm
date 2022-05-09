@@ -34,7 +34,7 @@ INSTALLED_APPS = [
 ELASTIC_APM = {
     # Set the required service name. Allowed characters:
     # a-z, A-Z, 0-9, -, _, and space
-    'SERVICE_NAME': '',
+    'SERVICE_NAME': 'testelasticapm',
 
     # Use if APM Server requires a secret token
     'SECRET_TOKEN': 'DYVuJGfJTX8brbTKaY',
